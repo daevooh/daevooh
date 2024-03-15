@@ -3,38 +3,11 @@
 <!--
 **daevooh/daevooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profiles 
 -->
-
-
-User
-make this intro to make potential tech recuiters reach out
-<h1 align="center">Hi 👋, I'm David ogbe</h1>
-<h3 align="center">A passionate developer from Nigeria.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daevooh&label=Profile%20views&color=0e75b6&style=flat" alt="daevooh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daevooh" alt="daevooh" /></a> </p>
-
-- 🔭 I’m currently working on [A food delivery website](Smagpal.com.ng)
-
-- 🌱 I’m currently learning **Django, react JavaScript, dev ops, network/server management.**
-
-- 👨‍💻 All of my projects are available at (Coming soon)
-
-- 📝 I regularly write articles on (Coming soon)
-
-- 💬 Ask me about **Django, software engineering, python,grit and growth,web3**
-
-- 📫 How to reach me **ogbekingdavid@gmail.com**
-
-- 📄 Know about my experiences (Coming soon)
-
-- ⚡ Fun fact **I'm a student doctor(Dr)**
-ChatGPT
 <h1 align="center">Hi there! 👋 I'm David Ogbe</h1>
 <h3 align="center">A passionate developer hailing from Nigeria.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daevooh&label=Profile%20views&color=0e75b6&style=flat" alt="daevooh" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daevooh" alt="daevooh" /></a> </p>
-🔭 Currently, I'm immersed in crafting a captivating food delivery website.
+🔭 Currently, I'm immersed in crafting a captivating food delivery website (Smagpal.com.ng).
 
 🌱 Actively expanding my skill set with Django, React JavaScript, DevOps, and network/server management.
 
