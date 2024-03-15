@@ -11,9 +11,9 @@
 
 🌱 Actively expanding my skill set with Django, React JavaScript, DevOps, and network/server management.
 
-👨‍💻 Explore my projects soon to be available at [insert link here].
+👨‍💻 Explore my projects soon to be available at (coming soon).
 
-📝 Keep an eye out for my upcoming articles on [insert platform here].
+📝 Keep an eye out for my upcoming articles on (coming soon).
 
 💬 Let's chat about Django, software engineering, Python, grit and growth, and the exciting world of Web3.
 
