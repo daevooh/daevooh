@@ -7,7 +7,7 @@
 <h3 align="center">A passionate developer hailing from Nigeria.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daevooh&label=Profile%20views&color=0e75b6&style=flat" alt="daevooh" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daevooh" alt="daevooh" /></a> </p>
-🔭 Currently, I'm immersed in crafting a captivating food delivery website Smagpal.com.ng.
+🔭 Currently, I'm immersed in crafting a captivating food delivery website. smagpal.com.ng
 
 🌱 Actively expanding my skill set with Django, React JavaScript, DevOps, and network/server management.
 
