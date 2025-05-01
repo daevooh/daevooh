@@ -3,8 +3,8 @@
 <!--
 **daevooh/daevooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profiles 
 -->
-<h1 align="center">Hi there! 👋 I'm David Ogbe</h1>
-<h3 align="center">A passionate developer hailing from Nigeria.</h3>
+<h1 align="center">Hi there! 👋 I'm David Adaka Ogbe</h1>
+<h3 align="center">A developer commited to making your ideas a reality .</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daevooh&label=Profile%20views&color=0e75b6&style=flat" alt="daevooh" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daevooh" alt="daevooh" /></a> </p>
 🔭 Currently, I'm immersed in building a game changer on the blockchain. <a href="https://link3.pythonanywhere.com">Link3</a>
