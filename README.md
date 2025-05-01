@@ -7,7 +7,7 @@
 <h3 align="center">A passionate developer hailing from Nigeria.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daevooh&label=Profile%20views&color=0e75b6&style=flat" alt="daevooh" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daevooh" alt="daevooh" /></a> </p>
-🔭 Currently, I'm immersed in building a game changer on the blockchain. <a href="link3.pythonanywhere.com">Link3</a>
+🔭 Currently, I'm immersed in building a game changer on the blockchain. <a href="https://link3.pythonanywhere.com">Link3</a>
 
 🌱 Actively expanding my skill set with Django, React JavaScript, DevOps, and network/server management.
 
