@@ -7,13 +7,13 @@
 <h3 align="center">A passionate developer hailing from Nigeria.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daevooh&label=Profile%20views&color=0e75b6&style=flat" alt="daevooh" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daevooh" alt="daevooh" /></a> </p>
-🔭 Currently, I'm immersed in building a game changer on the Sei blockchain. <a href=" smagpal.com.ng">Uploading soon</a>
+🔭 Currently, I'm immersed in building a game changer on the blockchain. <a href="link3.pythonanywhere.com">Link3</a>
 
 🌱 Actively expanding my skill set with Django, React JavaScript, DevOps, and network/server management.
 
-👨‍💻 Explore my projects soon to be available at (coming soon).
+👨‍💻 Explore my projects soon to be available at (web porfolio coming soon)link to TG <a href="https://t.me/daevoohpy">Projects</a>.
 
-📝 Keep an eye out for my upcoming articles on (coming soon).
+📝  My Published articles on Web3 contents <a href="https://block24.xyz/view_user_information/daevooh.py/">Articles</a>.
 
 💬 Let's chat about Django, software engineering, Python, grit and growth, and the exciting world of Web3.
 
