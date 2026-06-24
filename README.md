@@ -52,3 +52,8 @@ I bridge the gap between complex biological systems and scalable software archit
 </p>
 
 ⚡ **Fun fact:** I'm not just a developer; I'm a student doctor currently managing project objectives for the **National Directorate of Infectious Diseases**.
+
+
+wget "https://downloads.sourceforge.net/project/blissos-x86/Official/BlissOS16/Generic/Bliss-v16.9.7-x86_64-OFFICIAL-gapps-20241011.iso" \
+     -O Bliss-v16.9.7-gapps.iso \
+     --progress=bar
