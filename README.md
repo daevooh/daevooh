@@ -1,5 +1,5 @@
-<h1 align="center"> David Adaka Ogbe</h1>
-<h3 align="center">Full-Stack Engineer (Python/Django) & Medical Scholar</h3>
+
+<h3 align="center">Full-Stack Developer </h3>
 <h3 align="center">Some of my works: https://t.me/daevoohpy </h3>
 
 <p align="center">
