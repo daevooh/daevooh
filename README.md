@@ -19,7 +19,7 @@ I bridge the gap between complex biological systems and scalable software archit
 
 ---
 
-### 🛠 Tech Stack & Tools
+###  Tech Stack & Tools
 - **Languages:** Python (Advanced), JavaScript (React), Bash.
 - **Backend:** Django, PostgreSQL, MySQL, REST APIs.
 - **Infrastructure:** AWS, Linux, Docker, DevOps, Network Management.
