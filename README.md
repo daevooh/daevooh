@@ -9,7 +9,7 @@
 
 ---
 
-### 🩺 The Physician-Developer Hybrid
+###  The Physician-Developer Hybrid
 I bridge the gap between complex biological systems and scalable software architecture. Currently balancing medical school with building high-impact platforms in Fintech, HealthTech, and Web3.
 
 -  **Built Link3:** A Web2-to-Web3 bridge developed as a full-stack MVP in 30 days.
@@ -36,7 +36,7 @@ I bridge the gap between complex biological systems and scalable software archit
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 <p align="left">
 <a href="https://twitter.com/ogbekingdavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ogbekingdavid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/david-ogbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-ogbe" height="30" width="40" /></a>
